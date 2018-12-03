@@ -1,0 +1,10 @@
+var starName
+var msg
+var asterisms
+
+{
+  starName: '코스모스',
+  msg: '코스모스는 과거에도 있었고 현재에도 있으며 미래에도 있을 그 모든 것이다.',
+  asterisms: '코스모스 칼세이건 cosmos',
+  img: cosmos.jpg
+}
